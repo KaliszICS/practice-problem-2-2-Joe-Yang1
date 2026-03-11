@@ -1,3 +1,10 @@
+/**
+ * File: Converting Data Types
+ * Author: Joe Yang
+ * Date Created: Mar 4, 2026
+ * Date Last Modified: Mar 11, 2026
+ */
+
 public class PracticeProblem {
 
 	public static void main(String args[]) {
