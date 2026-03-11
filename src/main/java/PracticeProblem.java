@@ -21,7 +21,7 @@ public class PracticeProblem {
 	}
 
 	public static int combinedLength(String word, String word2){
-	String result = word + word;
+	String result = word + word2;
 	return result.length();
 	
 }
